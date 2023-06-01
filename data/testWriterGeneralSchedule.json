@@ -1,0 +1,17 @@
+{"movieNames": [
+    {
+        "maxSeatNum": 8,
+        "name": "The Avengers I",
+        "customerList": [
+            {"customerName": "Jerry"},
+            {"customerName": "Katherine"}
+        ],
+        "time": "12:00"
+    },
+    {
+        "maxSeatNum": 20,
+        "name": "The Avengers II",
+        "customerList": [],
+        "time": "16:00"
+    }
+]}
